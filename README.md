@@ -14,3 +14,14 @@ There is a large grocery chain. The company’s goal is to drive more customers 
 2. Target of Randomization Unit
 3. Sample Size
 
+**Comparison of CTR on each variant**
+<img src="img/ctr.png" width="1000"/>
+
+**Detection of SRM**
+<img src="img/srm.png" width="1000"/>
+
+**The statistical test results**
+<img src="img/statresult.png" width="1000"/>
+
+**Visualize The statistical test results**
+<img src="img/visualize.png" width="1000"/>
